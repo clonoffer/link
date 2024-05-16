@@ -1,0 +1,108 @@
+Uri: https://cdn.greatsoftwares.com.br/
+File Name: C:\Downloaded Web Sites\star-net.click\index.htm
+Content Type: application/xml
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\star-net.click\scripts\utms\latest.js
+Content Type: application/javascript
+
+Uri: https://pay.starlinknet.online/2wq7GreLe1AZBAN
+File Name: C:\Downloaded Web Sites\star-net.click\2wq7GreLe1AZBAN
+Content Type: application/json
+
+Uri: https://r3-pages-views.greatpages.com.br/?g=eyJ2IjoxLCJhIjoicGFnZXZpZXciLCJzIjoiYU5TYUdOdGVIQmliWFIzWWtkR2RXSjVOV3BpTWpCMlQyWjBPVXBTY2xVM2RzUkZrNVlscFlaalIzV0d0aFNGSXdZMGhOTmt4NU9UTmtNMk4xWXoiLCJkIjoiMjAyNC0wNS0wNiAyMToxNjoyMSIsImUiOiJHUGFnZXMuNDgzNTE3MTUwMjI5ODEzNjEiLCJpIjoiTnhEU25CaWJsSnNXak5LYUZreVJuWllNbHBvV1RKV2FXSXlPWEpZTTBKd1pVZFdjMWd5VmpKYVZ6VXdZakU1YUZreVZucGpNamxtWTBkV2VXTXlPWFZaVjNod1pXMUdhMko1U1RaaWJsWnpZa04zYVdGWE5UQmFWMlI1V1ZkT2FHSXhPVzFaVjA1c1dXMDVkbUV4T1hkaFdHaHNZa1k1YkdSdFZuVmtSemhwVDJsS1VWbFhaR3hXYld4c1pIbEpjMGx0YkhWa1IxWnVZMjFHYWxsWE9XWmFiVVpxV2xkS2RtSXlkR1pqUjJ3MFdsZDRabHBZV214aWJsSjJXRE5DYkdOdVRuWmliVVp6WVZod2FGcEhPR2xQYlRVeFlrZDNjMGx0YkhWa1IxWnVZMjFHYWxsWE9XWmFiVVpxV2xkS2RtSXlkR1pqUjJ3MFdsZDRabHBZV214aWJsSjJXREpPZG1KdVVteGtWMUoyV0ROYWFHSkhPWGxKYW5CMVpGZDRjMHhEU25CaWJsSnNXak5LYUZreVJuWllNbHBvV1RKV2FXSXlPWEpZTTBKd1pVZFdjMWd5VmpKYVZ6VXdZakU1YW1JeU5UQmFXRlpyWWpFNWRHSXlWbXRaVTBrMlNXcEJhV1pSTkcxUVJETkpSR1VYUTBUREU1YURsSllWWXpkVFZsZVVwd1drWTVia2xxYjJsTmVtTXhUbFJWTkVscGQybGhWMUptWTBkR2JtRlhOV2hKYW05cFRsUm5NazlVUlRSSmFYZHBZVmRTWmxwSE9YUmhWelZ3WW5sSk5rbHFSVE5QUkUweVRYbEpjMGx0YkhWa1IxWnVZMjFHYWxsWE9XWmFiVVpxV2xkS2RtSXlkR1prUnpseVdsYzBhVTl0TlRGaVIzZHpTVzFzZFdSSFZtNWpiVVpxV1ZjNVpscHRSbXBhVjBwMllqSjBabU5IYkRSYVYzaG1ZVWRHYVdGWGVIQmtSMFo1U1dwd2RXUlhlSE5NUTBwd1ltNVNiRm96U21oWk1rWjJXREphYUZreVZtbGlNamx5V0ROQ2NHVkhWbk5ZTWxZeVdsYzFNR0l4T1RCYVdFNHdXbE5KTm1KdVZuTmlRM2RwWVZjMU1GcFhaSGxaVjA1b1lqRTViVmxYVG14WmJUbDJZVEU1ZDJGWWFHeGlRMGsyWW01V2MySkRkMmxoVnpVd1dsZGtlVmxYVG1oaU1UbHRXVmRPYkZsdE9YWmhNVGwzWVZob2JHSkdPV3hrYlZaMVpFYzVabGxYVG14ak0wNTJTV3B2YVZWSFJtNWFWbHB3V2xoamFVIiwiYyI6IiJ9
+File Name: C:\Downloaded Web Sites\star-net.click\index-1.htm
+Content Type: application/javascript
+
+Uri: https://star-net.click/starlink/
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\index.htm
+Content Type: text/html
+
+Uri: https://star-net.click/starlink/css/css.css
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\css\css.css
+Content Type: text/css
+
+Uri: https://star-net.click/starlink/default.ico
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\default.ico
+Content Type: image/x-icon
+
+Uri: https://star-net.click/starlink/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://star-net.click/starlink/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://star-net.click/starlink/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://star-net.click/starlink/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://star-net.click/starlink/images/375558-5870970b09c1bf7edd59b17c94ccf39c.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-5870970b09c1bf7edd59b17c94ccf39c.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-6e2317fa9599be132d0a4ff0976e743b.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-6e2317fa9599be132d0a4ff0976e743b.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-7f468ec304cb5747b2c361a421358b14.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-7f468ec304cb5747b2c361a421358b14.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-8b4e730ca66b29b254d7bebd95e20724.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-8b4e730ca66b29b254d7bebd95e20724.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-a0229a5c4f0e08bf12f65dcad17764a9.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-a0229a5c4f0e08bf12f65dcad17764a9.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-d0d4888eda0995df2c5abebe78320445.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-d0d4888eda0995df2c5abebe78320445.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-d8d90dca464abf0069b72bfd00debd6e.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-d8d90dca464abf0069b72bfd00debd6e.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-d945e036723d80dedef4d641c46e1660.jpg
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-d945e036723d80dedef4d641c46e1660.jpg
+Content Type: image/jpeg
+
+Uri: https://star-net.click/starlink/images/375558-e943ad93e1702038156ef836b445fcbe.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-e943ad93e1702038156ef836b445fcbe.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-ea945a3d32ffb9b9814b09fd006d7972.png
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-ea945a3d32ffb9b9814b09fd006d7972.png
+Content Type: image/png
+
+Uri: https://star-net.click/starlink/images/375558-f4d42c469085fa9621678561ca5ee9d5.svg
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\375558-f4d42c469085fa9621678561ca5ee9d5.svg
+Content Type: image/svg+xml
+
+Uri: https://star-net.click/starlink/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://star-net.click/starlink/js/fbevents.js
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\js\fbevents.js
+Content Type: application/x-javascript
+
+Uri: https://star-net.click/starlink/js/js.js
+File Name: C:\Downloaded Web Sites\star-net.click\starlink\js\js.js
+Content Type: application/x-javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vedd3670a3b1c4e178fdfb0cc912d969e1713874337387
+File Name: C:\Downloaded Web Sites\star-net.click\beacon.min.js\vedd3670a3b1c4e178fdfb0cc912d969e1713874337387
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=304214456063186&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\star-net.click\tr
+Content Type: text/plain
+
